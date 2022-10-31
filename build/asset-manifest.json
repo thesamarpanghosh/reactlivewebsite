@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.4bb88e01.css",
+    "main.js": "/reactlivewebsite/static/js/main.236523a5.js",
+    "static/js/787.1f28953f.chunk.js": "/reactlivewebsite/static/js/787.1f28953f.chunk.js",
+    "static/media/Shopping-Satisfaction-Illustration.png": "/reactlivewebsite/static/media/Shopping-Satisfaction-Illustration.37d263c01646a7d029d9.png",
+    "static/media/Man-Sailing-a-Speed-Boat-Illustration.png": "/reactlivewebsite/static/media/Man-Sailing-a-Speed-Boat-Illustration.a0b9be7fec5f58c13c11.png",
+    "static/media/Women-Working-at-Home-Illustration.png": "/reactlivewebsite/static/media/Women-Working-at-Home-Illustration.acf1b9b436a5d2a7e414.png",
+    "static/media/App Development Illustration.jpg": "/reactlivewebsite/static/media/App Development Illustration.0e5c56c2d6842af74718.jpg",
+    "static/media/Business Meeting Illustration.jpg": "/reactlivewebsite/static/media/Business Meeting Illustration.6e807edd77f78856a989.jpg",
+    "static/media/Work-at-Home-Illustration.jpg": "/reactlivewebsite/static/media/Work-at-Home-Illustration.ca07e56df9d58f8a1fdb.jpg",
+    "static/media/University-Students-Illustration.jpg": "/reactlivewebsite/static/media/University-Students-Illustration.e8cc567d17025be27efa.jpg",
+    "static/media/Online-Language-Course-Illustration.jpg": "/reactlivewebsite/static/media/Online-Language-Course-Illustration.6c0a9f6c458dde3637dd.jpg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.4bb88e01.css.map": "/reactlivewebsite/static/css/main.4bb88e01.css.map",
+    "main.236523a5.js.map": "/reactlivewebsite/static/js/main.236523a5.js.map",
+    "787.1f28953f.chunk.js.map": "/reactlivewebsite/static/js/787.1f28953f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb88e01.css",
+    "static/js/main.236523a5.js"
+  ]
+}
